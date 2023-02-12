@@ -1,0 +1,2 @@
+declare_variable x int32_11 plus int32_11 plus int32_11
+call_function print any_input: int32_x plus int32_5 minus int32_5
